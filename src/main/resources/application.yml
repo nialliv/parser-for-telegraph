@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: parser-for-slave
+
+path-to-json-file: "/home/kit/books.json"
+path-to-dir: "/home/kit/Shadow_Slave_books/"
